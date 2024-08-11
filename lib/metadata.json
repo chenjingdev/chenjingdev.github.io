@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "vaultName": "Chenjing Dev",
   "lastExport": 1717414539279,
   "pluginVersion": "1.8.01",
@@ -112,6 +113,15 @@
     "키워드/VP.md",
     "키워드/VPN.md",
     "키워드/VPO.md",
+=======
+  "vaultName": "Obsidian Vault",
+  "lastExport": 1723386371219,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+>>>>>>> master
     "CSAPP/3장 프로그램의 기계수준 표현/@INTRO.md",
     "CSAPP/3장 프로그램의 기계수준 표현/3.1. 역사적 관점.md",
     "CSAPP/3장 프로그램의 기계수준 표현/3.2. 프로그램의 인코딩.md",
@@ -307,6 +317,7 @@
     "CSAPP/12장 동시성 프로그래밍/12.7.4 경쟁 상태.md",
     "CSAPP/12장 동시성 프로그래밍/12.7.5 교착상태(deadlock).md",
     "CSAPP/12장 동시성 프로그래밍/12.8 요약.md",
+<<<<<<< HEAD
     "pintos/키워드/1주차 threads/Project 0. PintOS 키워드.md",
     "pintos/키워드/1주차 threads/Project 1. Threads 키워드.md",
     "pintos/키워드/2주차 userprog/1. User mode vs kernel mode.md",
@@ -360,6 +371,166 @@
     "pintos_gitbook/PROJECT4. FILE SYSTEM/4. Buffer Cache (Extra).md",
     "pintos_gitbook/PROJECT4. FILE SYSTEM/5. Synchronization.md",
     "pintos_gitbook/PROJECT4. FILE SYSTEM/6. FAQ.md",
+=======
+    "CSAPP/부록/16개의 레지스터.md",
+    "CSAPP/부록/고급어, 어셈블리어, 기계어 번역 이유.md",
+    "CSAPP/부록/내부적으로 데이터를 버퍼링.md",
+    "CSAPP/부록/동적 메모리 할당의 메모리 합병.md",
+    "CSAPP/부록/레지스터 호출 규약.md",
+    "CSAPP/부록/레지스터, 캐시, 램 – 컴퓨터 메모리의 계층.md",
+    "CSAPP/부록/레지스터는 메모리인가.md",
+    "CSAPP/부록/리틀 엔디안과 빅 엔디안.md",
+    "CSAPP/부록/멀티 스레드 애플리케이션 예시.md",
+    "CSAPP/부록/멀티프로세서와 쓰레드 사용 예시.md",
+    "CSAPP/부록/메모리 스택.md",
+    "CSAPP/부록/메모리 힙 영역.md",
+    "CSAPP/부록/메모리와 파일 사이에서 데이터를 직접 전송.md",
+    "CSAPP/부록/베어 메탈(bare metal) 시스템.md",
+    "CSAPP/부록/부모 프로세스와 자식 프로세스.md",
+    "CSAPP/부록/스택과 프레임의 차이.md",
+    "CSAPP/부록/어플리케이션 수준.md",
+    "CSAPP/부록/엔티티.md",
+    "CSAPP/부록/원자적 연산.md",
+    "CSAPP/부록/인터페이스.md",
+    "CSAPP/부록/일반 가정에서의 네트워크.md",
+    "CSAPP/부록/캐시메모리.md",
+    "CSAPP/부록/컴퓨터 시스템에서 말하는 자원.md",
+    "CSAPP/부록/컴퓨터의 데이터 처리 과정.md",
+    "CSAPP/부록/파일 공유 예시.md",
+    "CSAPP/부록/파일테이블과 v-node테이블 분리 이유.md",
+    "CSAPP/부록/페이지 테이블과 SRAM의 관계.md",
+    "CSAPP/부록/페이지 폴트, 캐시미스.md",
+    "CSAPP/부록/프로세스를 사용한 동시성 활용예시.md",
+    "CSAPP/부록/프로파일링 도구.md",
+    "CSAPP/부록/하이퍼쓰레딩을 지원하지 않음.md",
+    "CSAPP/부록/함수 매개변수와 성능.md",
+    "CSAPP/부록/허브, 스위치, 브릿지, 라우터.md",
+    "CSAPP/부록/회사나 대규모 기관에서의 네트워크.md",
+    "CSAPP/부록/힙 충돌.md",
+    "CSAPP/부록/ALU 연산.md",
+    "CSAPP/부록/Buffered IO vs Unbuffered IO.md",
+    "CSAPP/부록/CGI vs NEXT.js.md",
+    "CSAPP/부록/CPU의 메모리 접근 경로.md",
+    "CSAPP/부록/DMA의 입력과 출력.md",
+    "CSAPP/부록/Echo 활용 예시.md",
+    "CSAPP/부록/FPS 게임으로 보는 버퍼 시스템.md",
+    "CSAPP/부록/free선언과 최적화.md",
+    "CSAPP/부록/IO 재지정 이유.md",
+    "CSAPP/부록/JavaScript 성능 최적화.md",
+    "CSAPP/부록/malloc & coloc 사용 예시.md",
+    "CSAPP/부록/nginx.md",
+    "CSAPP/부록/rio 함수 안쓰고 네트워크 프로그래밍 하기.md",
+    "CSAPP/부록/SIGCHLD.md",
+    "CSAPP/부록/v-node의 라이프사이클.md",
+    "CSAPP/부록/Write back & Write through.md",
+    "CSAPP/키워드/가상화.md",
+    "CSAPP/키워드/그리디 알고리즘.md",
+    "CSAPP/키워드/기계어.md",
+    "CSAPP/키워드/네트워크 계층.md",
+    "CSAPP/키워드/다이나믹 프로그래밍.md",
+    "CSAPP/키워드/더블 프리시전 부동 소수점 수.md",
+    "CSAPP/키워드/동적 메모리 할당.md",
+    "CSAPP/키워드/레드 블랙 트리의 삽입 삭제.md",
+    "CSAPP/키워드/레지스터.md",
+    "CSAPP/키워드/레지스터기호.md",
+    "CSAPP/키워드/링커.md",
+    "CSAPP/키워드/병합정렬.md",
+    "CSAPP/키워드/분할정복.md",
+    "CSAPP/키워드/소켓.md",
+    "CSAPP/키워드/스칼라 데이터 타입.md",
+    "CSAPP/키워드/어셈블러.md",
+    "CSAPP/키워드/어셈블리어.md",
+    "CSAPP/키워드/오프셋.md",
+    "CSAPP/키워드/이더넷(Ethernet).md",
+    "CSAPP/키워드/이진 탐색 트리(BST).md",
+    "CSAPP/키워드/인스트럭션.md",
+    "CSAPP/키워드/인터럽트.md",
+    "CSAPP/키워드/정수 데이터 타입.md",
+    "CSAPP/키워드/조건형 move.md",
+    "CSAPP/키워드/퀵정렬.md",
+    "CSAPP/키워드/클라이언트-서버 모델.md",
+    "CSAPP/키워드/파일 디스크립터.md",
+    "CSAPP/키워드/포인터.md",
+    "CSAPP/키워드/프로그램 카운터.md",
+    "CSAPP/키워드/AVX2.md",
+    "CSAPP/키워드/C연산자.md",
+    "CSAPP/키워드/calloc.md",
+    "CSAPP/키워드/Datagram Socket vs Stream Socket.md",
+    "CSAPP/키워드/DMA.md",
+    "CSAPP/키워드/GCC C 컴파일러.md",
+    "CSAPP/키워드/hotspot.md",
+    "CSAPP/키워드/Knapsack Problem.md",
+    "CSAPP/키워드/LCS.md",
+    "CSAPP/키워드/Linked List.md",
+    "CSAPP/키워드/malloc(Moemory Allocation).md",
+    "CSAPP/키워드/PP.md",
+    "CSAPP/키워드/PPN.md",
+    "CSAPP/키워드/PPO.md",
+    "CSAPP/키워드/PT.md",
+    "CSAPP/키워드/PTE.md",
+    "CSAPP/키워드/rax.md",
+    "CSAPP/키워드/rdx.md",
+    "CSAPP/키워드/realloc.md",
+    "CSAPP/키워드/rsp.md",
+    "CSAPP/키워드/SRAM.md",
+    "CSAPP/키워드/TLB.md",
+    "CSAPP/키워드/VP.md",
+    "CSAPP/키워드/VPN.md",
+    "CSAPP/키워드/VPO.md",
+    "PintOS/키워드/1주차 threads/Project 0. PintOS 키워드.md",
+    "PintOS/키워드/1주차 threads/Project 1. Threads 키워드.md",
+    "PintOS/키워드/2주차 userprog/1. User mode vs kernel mode.md",
+    "PintOS/키워드/2주차 userprog/2. Register vs Memory.md",
+    "PintOS/키워드/2주차 userprog/3. User Stack.md",
+    "PintOS/키워드/2주차 userprog/4. System Call.md",
+    "PintOS/키워드/2주차 userprog/5. File Descriptor.md",
+    "PintOS/키워드/2주차 userprog/6. Cache.md",
+    "PintOS/키워드/2주차 userprog/7. Atomic Operation.md",
+    "PintOS/키워드/2주차 userprog/8. rax register.md",
+    "PintOS/키워드/2주차 userprog/9. 32bit OS vs 64 bit OS.md",
+    "PintOS/키워드/2주차 userprog/10. Interrupt.md",
+    "PintOS/키워드/2주차 userprog/11. Segmentatiton Fault.md",
+    "PintOS/pintos_gitbook/@INTRODUCTION/1. Introduction.md",
+    "PintOS/pintos_gitbook/@INTRODUCTION/2. Getting Started.md",
+    "PintOS/pintos_gitbook/@INTRODUCTION/3. Grading.md",
+    "PintOS/pintos_gitbook/@INTRODUCTION/4. Legal and Ethical Issues.md",
+    "PintOS/pintos_gitbook/APPENDIX/1. Threads.md",
+    "PintOS/pintos_gitbook/APPENDIX/2. Synchronization.md",
+    "PintOS/pintos_gitbook/APPENDIX/3. Memory Allocation.md",
+    "PintOS/pintos_gitbook/APPENDIX/4. Virtual Address.md",
+    "PintOS/pintos_gitbook/APPENDIX/5. Page Table.md",
+    "PintOS/pintos_gitbook/APPENDIX/6. Debugging Tools.md",
+    "PintOS/pintos_gitbook/APPENDIX/7. Development Tools.md",
+    "PintOS/pintos_gitbook/APPENDIX/8. Hash Table.md",
+    "PintOS/pintos_gitbook/PROJECT1. THREADS/1. Introduction.md",
+    "PintOS/pintos_gitbook/PROJECT1. THREADS/2.  Alarm Clock.md",
+    "PintOS/pintos_gitbook/PROJECT1. THREADS/3. Priority Scheduling.md",
+    "PintOS/pintos_gitbook/PROJECT1. THREADS/4. Advanced Scheduler.md",
+    "PintOS/pintos_gitbook/PROJECT1. THREADS/5. FAQ.md",
+    "PintOS/pintos_gitbook/PROJECT2. USER PROGRAMS/1. Introduction.md",
+    "PintOS/pintos_gitbook/PROJECT2. USER PROGRAMS/2. Argument Passing.md",
+    "PintOS/pintos_gitbook/PROJECT2. USER PROGRAMS/3. User Memory.md",
+    "PintOS/pintos_gitbook/PROJECT2. USER PROGRAMS/4. System Calls.md",
+    "PintOS/pintos_gitbook/PROJECT2. USER PROGRAMS/5. Process Termination Messages.md",
+    "PintOS/pintos_gitbook/PROJECT2. USER PROGRAMS/6. Denying Writes to Executables.md",
+    "PintOS/pintos_gitbook/PROJECT2. USER PROGRAMS/7. Extend File Descriptor (Extra).md",
+    "PintOS/pintos_gitbook/PROJECT2. USER PROGRAMS/8. FAQ.md",
+    "PintOS/pintos_gitbook/PROJECT3. VIRTUAL MEMORY/1. Introduction.md",
+    "PintOS/pintos_gitbook/PROJECT3. VIRTUAL MEMORY/1. Introduction 1.md",
+    "PintOS/pintos_gitbook/PROJECT3. VIRTUAL MEMORY/2. Memory Management.md",
+    "PintOS/pintos_gitbook/PROJECT3. VIRTUAL MEMORY/3. Anonymous Page.md",
+    "PintOS/pintos_gitbook/PROJECT3. VIRTUAL MEMORY/4. Stack Growth.md",
+    "PintOS/pintos_gitbook/PROJECT3. VIRTUAL MEMORY/5. Memory Mapped Files.md",
+    "PintOS/pintos_gitbook/PROJECT3. VIRTUAL MEMORY/6. Swap In Out.md",
+    "PintOS/pintos_gitbook/PROJECT3. VIRTUAL MEMORY/7. Copy on Write (Extra).md",
+    "PintOS/pintos_gitbook/PROJECT3. VIRTUAL MEMORY/8. FAQ.md",
+    "PintOS/pintos_gitbook/PROJECT4. FILE SYSTEM/1. Introduction.md",
+    "PintOS/pintos_gitbook/PROJECT4. FILE SYSTEM/2. Indexed and Extensible Files.md",
+    "PintOS/pintos_gitbook/PROJECT4. FILE SYSTEM/3. Subdirectories and Soft Links.md",
+    "PintOS/pintos_gitbook/PROJECT4. FILE SYSTEM/4. Buffer Cache (Extra).md",
+    "PintOS/pintos_gitbook/PROJECT4. FILE SYSTEM/5. Synchronization.md",
+    "PintOS/pintos_gitbook/PROJECT4. FILE SYSTEM/6. FAQ.md",
+>>>>>>> master
     "z.첨부파일/기계어 예시.png",
     "z.첨부파일/런타임스택.png",
     "z.첨부파일/스택연산과정.png",
@@ -402,7 +573,12 @@
     "lib/fonts/52ac8f3034507f1d9e53.ttf",
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+<<<<<<< HEAD
     "lib/media/874d8b8e340f75575caa.svg"
+=======
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg"
+>>>>>>> master
   ],
   "mainDependencies": [
     "lib/fonts/94f2f163d4b698242fef.otf",
@@ -418,6 +594,7 @@
     "lib/fonts/52ac8f3034507f1d9e53.ttf",
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+<<<<<<< HEAD
     "lib/media/874d8b8e340f75575caa.svg"
   ],
   "fileInfo": {
@@ -981,916 +1158,1530 @@
     },
     "CSAPP/3장 프로그램의 기계수준 표현/@INTRO.md": {
       "modifiedTime": 1717414539279,
+=======
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg"
+  ],
+  "fileInfo": {
+    "CSAPP/3장 프로그램의 기계수준 표현/@INTRO.md": {
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 578,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/@INTRO.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.1. 역사적 관점.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 3174,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.1. 역사적 관점.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.2. 프로그램의 인코딩.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1388,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.2. 프로그램의 인코딩.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.2.1. 기계수준 코드.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 4332,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.2.1. 기계수준 코드.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.2.2. 코드 예제.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2529,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.2.2. 코드 예제.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.2.3. 형식에 대한 설명.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 42,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.2.3. 형식에 대한 설명.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.3. 데이터의 형식.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2401,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.3. 데이터의 형식.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.4. 정보 접근하기.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2676,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.4. 정보 접근하기.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.4.1. 오퍼랜드 식별자.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 3462,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.4.1. 오퍼랜드 식별자.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.4.2. 데이터 이동 인스트럭션.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 885,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.4.2. 데이터 이동 인스트럭션.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.4.3. 데이터 이동 예제.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1078,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.4.3. 데이터 이동 예제.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.4.4. 스택 데이터의 저장과 추출.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1883,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.4.4. 스택 데이터의 저장과 추출.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.5. 산술연산과 논리연산.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 507,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.5. 산술연산과 논리연산.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.5.1. 유효주소 적재.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1508,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.5.1. 유효주소 적재.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.5.2. 단항 및 이항 연산.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 560,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.5.2. 단항 및 이항 연산.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.5.3. 시프트 연산.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2561,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.5.3. 시프트 연산.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.5.4. 토의.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 10,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.5.4. 토의.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.5.5. 특수 산술연산.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1939,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.5.5. 특수 산술연산.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.6. 제어문.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 20,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.6. 제어문.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.6.1. 조건 코드.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2200,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.6.1. 조건 코드.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.6.2. 조건 코드 사용하기.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1857,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.6.2. 조건 코드 사용하기.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.6.3. 점프 인스트럭션.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1781,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.6.3. 점프 인스트럭션.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.6.4. 점프 인스트럭션 인코딩.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1679,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.6.4. 점프 인스트럭션 인코딩.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.6.5. 조건부 분기를 조건제어로 구현하기.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2094,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.6.5. 조건부 분기를 조건제어로 구현하기.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.6.6. 조건부 이동으로 조건부 분기 구현하기.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2270,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.6.6. 조건부 이동으로 조건부 분기 구현하기.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.6.7. 반복문.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1294,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.6.7. 반복문.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.6.8. Switch문.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1934,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.6.8. Switch문.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.7 프로시저.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1868,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.7 프로시저.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.7.1 런타임 스택.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 3336,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.7.1 런타임 스택.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.7.2. 제어의 이동.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1722,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.7.2. 제어의 이동.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.7.3. 데이터 전송.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1880,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.7.3. 데이터 전송.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.7.4. 스택에서의 지역저장공간.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1707,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.7.4. 스택에서의 지역저장공간.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.7.5. 레지스터를 이용하는 지역저장소.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1931,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.7.5. 레지스터를 이용하는 지역저장소.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.7.6. 재귀 프로시저.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 354,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.7.6. 재귀 프로시저.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.8. 배열의 할당과 접근.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1254,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.8. 배열의 할당과 접근.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.8.1 기본원리.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 225,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.8.1 기본원리.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.8.2. 포인터 연산.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 3452,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.8.2. 포인터 연산.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.8.3. 다중 배열.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1696,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.8.3. 다중 배열.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.8.4. 고정크기의 배열.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2161,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.8.4. 고정크기의 배열.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.8.5. 가변크기 배열.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2041,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.8.5. 가변크기 배열.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.9. 이기종 Heterogeneous 자료구조.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 978,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.9. 이기종 Heterogeneous 자료구조.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.9.1. 구조체.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1672,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.9.1. 구조체.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.9.2. 공용체.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1154,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.9.2. 공용체.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.9.3. 데이터의 정렬.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1454,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.9.3. 데이터의 정렬.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.10 기계수준 프로그램에서 제어와 데이터의 결합.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 911,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.10 기계수준 프로그램에서 제어와 데이터의 결합.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.10.1. 포인터 이해하기.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1510,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.10.1. 포인터 이해하기.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.10.2. 실제 적용하기 (GBD 디버거 사용하기).md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1651,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.10.2. 실제 적용하기 (GBD 디버거 사용하기).html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.10.3. 범위를 벗어난 메모리 참조와 버퍼 오버플로우.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1991,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.10.3. 범위를 벗어난 메모리 참조와 버퍼 오버플로우.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.10.4. 버퍼 오버플로우 공격 대응 방법.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1880,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.10.4. 버퍼 오버플로우 공격 대응 방법.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.10.5. 가변크기 스택 프레임 지원하기.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2177,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.10.5. 가변크기 스택 프레임 지원하기.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.11. 부동소수점 코드.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 3168,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.11. 부동소수점 코드.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.11.1. 부동소수점 이동 및 변환 연산.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2256,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.11.1. 부동소수점 이동 및 변환 연산.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.11.2. 프로시저에서 부동소수점 코드.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2371,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.11.2. 프로시저에서 부동소수점 코드.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.11.3. 부동소수점 산술연산.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2028,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.11.3. 부동소수점 산술연산.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.11.4. 부동소수점 상수의 정의 및 이용.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2498,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.11.4. 부동소수점 상수의 정의 및 이용.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.11.5. 부동소수점 코드에서 비트연산 사용하기.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 3142,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.11.5. 부동소수점 코드에서 비트연산 사용하기.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.11.6 부동소수점 비교 연산.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 3283,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.11.6 부동소수점 비교 연산.html",
       "dependencies": []
     },
     "CSAPP/3장 프로그램의 기계수준 표현/3.11.7 부동소수점 코드에 대한 관찰.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2789,
       "exportedPath": "CSAPP/3장 프로그램의 기계수준 표현/3.11.7 부동소수점 코드에 대한 관찰.html",
       "dependencies": []
     },
     "CSAPP/7장 링커/@INTRO.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 4127,
       "exportedPath": "CSAPP/7장 링커/@INTRO.html",
       "dependencies": []
     },
     "CSAPP/7장 링커/7.1 컴파일러 드라이버.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 3018,
       "exportedPath": "CSAPP/7장 링커/7.1 컴파일러 드라이버.html",
       "dependencies": []
     },
     "CSAPP/7장 링커/7.2. 정적연결.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2775,
       "exportedPath": "CSAPP/7장 링커/7.2. 정적연결.html",
       "dependencies": []
     },
     "CSAPP/7장 링커/7.3 목적파일.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 3057,
       "exportedPath": "CSAPP/7장 링커/7.3 목적파일.html",
       "dependencies": []
     },
     "CSAPP/7장 링커/7.4 재배치 가능 목적파일.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 3618,
       "exportedPath": "CSAPP/7장 링커/7.4 재배치 가능 목적파일.html",
       "dependencies": []
     },
     "CSAPP/7장 링커/7.5 심볼과 심볼 테이블.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 3080,
       "exportedPath": "CSAPP/7장 링커/7.5 심볼과 심볼 테이블.html",
       "dependencies": []
     },
     "CSAPP/7장 링커/7.6 심볼 해석.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2106,
       "exportedPath": "CSAPP/7장 링커/7.6 심볼 해석.html",
       "dependencies": []
     },
     "CSAPP/7장 링커/7.6.1 링커가 중복으로 정의된 전역 심볼을 해결하는 방법.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2864,
       "exportedPath": "CSAPP/7장 링커/7.6.1 링커가 중복으로 정의된 전역 심볼을 해결하는 방법.html",
       "dependencies": []
     },
     "CSAPP/7장 링커/7.6.2. 정적 라이브러리와 링크하기.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 3001,
       "exportedPath": "CSAPP/7장 링커/7.6.2. 정적 라이브러리와 링크하기.html",
       "dependencies": []
     },
     "CSAPP/7장 링커/7.7. 재배치.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1482,
       "exportedPath": "CSAPP/7장 링커/7.7. 재배치.html",
       "dependencies": []
     },
     "CSAPP/7장 링커/7.7.1. 재배치 엔트리.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 3842,
       "exportedPath": "CSAPP/7장 링커/7.7.1. 재배치 엔트리.html",
       "dependencies": []
     },
     "CSAPP/7장 링커/7.7.2 심볼 참조의 재배치.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2889,
       "exportedPath": "CSAPP/7장 링커/7.7.2 심볼 참조의 재배치.html",
       "dependencies": []
     },
     "CSAPP/7장 링커/7.8 실행 가능한 목적파일.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 3345,
       "exportedPath": "CSAPP/7장 링커/7.8 실행 가능한 목적파일.html",
       "dependencies": []
     },
     "CSAPP/7장 링커/7.9 실행 가능한 목적파일의 로딩.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2869,
       "exportedPath": "CSAPP/7장 링커/7.9 실행 가능한 목적파일의 로딩.html",
       "dependencies": []
     },
     "CSAPP/8장 예외적인 제어흐름/@INTRO.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 5385,
       "exportedPath": "CSAPP/8장 예외적인 제어흐름/@INTRO.html",
       "dependencies": []
     },
     "CSAPP/8장 예외적인 제어흐름/8.1 예외상황.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 3271,
       "exportedPath": "CSAPP/8장 예외적인 제어흐름/8.1 예외상황.html",
       "dependencies": []
     },
     "CSAPP/8장 예외적인 제어흐름/8.1.1 예외처리.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
       "sourceSize": 3826,
+=======
+      "modifiedTime": 1723386371219,
+      "sourceSize": 3810,
+>>>>>>> master
       "exportedPath": "CSAPP/8장 예외적인 제어흐름/8.1.1 예외처리.html",
       "dependencies": []
     },
     "CSAPP/8장 예외적인 제어흐름/8.1.2 예외의 종류.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 3153,
       "exportedPath": "CSAPP/8장 예외적인 제어흐름/8.1.2 예외의 종류.html",
       "dependencies": []
     },
     "CSAPP/8장 예외적인 제어흐름/8.1.3 리눅스, x86-64 시스템에서의 예외상황.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2519,
       "exportedPath": "CSAPP/8장 예외적인 제어흐름/8.1.3 리눅스, x86-64 시스템에서의 예외상황.html",
       "dependencies": []
     },
     "CSAPP/8장 예외적인 제어흐름/8.5 시그널.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2618,
       "exportedPath": "CSAPP/8장 예외적인 제어흐름/8.5 시그널.html",
       "dependencies": []
     },
     "CSAPP/8장 예외적인 제어흐름/8.5.1 시그널 용어.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2519,
       "exportedPath": "CSAPP/8장 예외적인 제어흐름/8.5.1 시그널 용어.html",
       "dependencies": []
     },
     "CSAPP/8장 예외적인 제어흐름/8.5.2 시그널 보내기.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2164,
       "exportedPath": "CSAPP/8장 예외적인 제어흐름/8.5.2 시그널 보내기.html",
       "dependencies": []
     },
     "CSAPP/8장 예외적인 제어흐름/8.5.3 시그널 수신.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2264,
       "exportedPath": "CSAPP/8장 예외적인 제어흐름/8.5.3 시그널 수신.html",
       "dependencies": []
     },
     "CSAPP/8장 예외적인 제어흐름/8.5.4 시그널 블록하기와 블록 해제하기.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2027,
       "exportedPath": "CSAPP/8장 예외적인 제어흐름/8.5.4 시그널 블록하기와 블록 해제하기.html",
       "dependencies": []
     },
     "CSAPP/8장 예외적인 제어흐름/8.5.5 시그널 핸들러 작성하기.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 0,
       "exportedPath": "CSAPP/8장 예외적인 제어흐름/8.5.5 시그널 핸들러 작성하기.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/@INTRO.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1930,
       "exportedPath": "CSAPP/9장 가상 메모리/@INTRO.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.1 물리 및 가상주소 방식.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2374,
       "exportedPath": "CSAPP/9장 가상 메모리/9.1 물리 및 가상주소 방식.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.2 주소공간.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 3372,
       "exportedPath": "CSAPP/9장 가상 메모리/9.2 주소공간.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.3 캐싱 도구로서의 VM.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 3089,
       "exportedPath": "CSAPP/9장 가상 메모리/9.3 캐싱 도구로서의 VM.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.3.1 DRAM 캐시의 구성.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1058,
       "exportedPath": "CSAPP/9장 가상 메모리/9.3.1 DRAM 캐시의 구성.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.3.2 페이지 테이블.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2914,
       "exportedPath": "CSAPP/9장 가상 메모리/9.3.2 페이지 테이블.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.3.3 페이지 적중.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 981,
       "exportedPath": "CSAPP/9장 가상 메모리/9.3.3 페이지 적중.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.3.4 페이지 오류.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1200,
       "exportedPath": "CSAPP/9장 가상 메모리/9.3.4 페이지 오류.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.3.5 페이지의 할당.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1363,
       "exportedPath": "CSAPP/9장 가상 메모리/9.3.5 페이지의 할당.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.3.6 문제해결을 위한 또 한 번의 지역성의 등장.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1375,
       "exportedPath": "CSAPP/9장 가상 메모리/9.3.6 문제해결을 위한 또 한 번의 지역성의 등장.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.4 메모리 관리를 위한 도구로서의 VM.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 3039,
       "exportedPath": "CSAPP/9장 가상 메모리/9.4 메모리 관리를 위한 도구로서의 VM.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.5 메모리 보호를 위한 도구로서의 VM.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2269,
       "exportedPath": "CSAPP/9장 가상 메모리/9.5 메모리 보호를 위한 도구로서의 VM.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.6 주소의 번역.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2971,
       "exportedPath": "CSAPP/9장 가상 메모리/9.6 주소의 번역.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.6.1 캐시와 VM의 통합.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2729,
       "exportedPath": "CSAPP/9장 가상 메모리/9.6.1 캐시와 VM의 통합.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.6.2 TLB를 사용한 주소 변역 속도의 개선.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 3302,
       "exportedPath": "CSAPP/9장 가상 메모리/9.6.2 TLB를 사용한 주소 변역 속도의 개선.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.6.3 다중 레벨 페이지 테이블.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 3243,
       "exportedPath": "CSAPP/9장 가상 메모리/9.6.3 다중 레벨 페이지 테이블.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.6.4 종합 구현. 종단 주소 번역.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2575,
       "exportedPath": "CSAPP/9장 가상 메모리/9.6.4 종합 구현. 종단 주소 번역.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.7 사례 연구. 인텔 코어 i7 리눅스 메모리 시스템.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2549,
       "exportedPath": "CSAPP/9장 가상 메모리/9.7 사례 연구. 인텔 코어 i7 리눅스 메모리 시스템.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.7.1 코어 i7에서의 주소 번역.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2415,
       "exportedPath": "CSAPP/9장 가상 메모리/9.7.1 코어 i7에서의 주소 번역.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.7.2 리눅스 가상메모리 시스템.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2227,
       "exportedPath": "CSAPP/9장 가상 메모리/9.7.2 리눅스 가상메모리 시스템.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.8 메모리 매핑.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2544,
       "exportedPath": "CSAPP/9장 가상 메모리/9.8 메모리 매핑.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.8.1 다시 보는 공유 객체.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2363,
       "exportedPath": "CSAPP/9장 가상 메모리/9.8.1 다시 보는 공유 객체.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.8.2 다시 보는 fork 함수.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2275,
       "exportedPath": "CSAPP/9장 가상 메모리/9.8.2 다시 보는 fork 함수.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.8.3 다시 보는 execve 함수.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2618,
       "exportedPath": "CSAPP/9장 가상 메모리/9.8.3 다시 보는 execve 함수.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.8.4 함수를 이용한 사용자수준 메모리 매핑.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 3015,
       "exportedPath": "CSAPP/9장 가상 메모리/9.8.4 함수를 이용한 사용자수준 메모리 매핑.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.9 동적 메모리 할당.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2754,
       "exportedPath": "CSAPP/9장 가상 메모리/9.9 동적 메모리 할당.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.9.1 malloc과 free함수.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2546,
       "exportedPath": "CSAPP/9장 가상 메모리/9.9.1 malloc과 free함수.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.9.2 왜 동적 메모리 할당인가.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2648,
       "exportedPath": "CSAPP/9장 가상 메모리/9.9.2 왜 동적 메모리 할당인가.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.9.3 할당기 요구사항과 목표.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2941,
       "exportedPath": "CSAPP/9장 가상 메모리/9.9.3 할당기 요구사항과 목표.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.9.4 단편화.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2375,
       "exportedPath": "CSAPP/9장 가상 메모리/9.9.4 단편화.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.9.5 구현 이슈.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1782,
       "exportedPath": "CSAPP/9장 가상 메모리/9.9.5 구현 이슈.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.9.6 묵시적 가용 리스트.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2983,
       "exportedPath": "CSAPP/9장 가상 메모리/9.9.6 묵시적 가용 리스트.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.9.7 할당한 블록의 배치.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2773,
       "exportedPath": "CSAPP/9장 가상 메모리/9.9.7 할당한 블록의 배치.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.9.8 가용 블록의 분할.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 779,
       "exportedPath": "CSAPP/9장 가상 메모리/9.9.8 가용 블록의 분할.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.9.9 추가적인 힙 메모리 획득하기.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 679,
       "exportedPath": "CSAPP/9장 가상 메모리/9.9.9 추가적인 힙 메모리 획득하기.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.9.10 가용 블록 연결하기.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 603,
       "exportedPath": "CSAPP/9장 가상 메모리/9.9.10 가용 블록 연결하기.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.9.11 경계 태그로 연결하기.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2164,
       "exportedPath": "CSAPP/9장 가상 메모리/9.9.11 경계 태그로 연결하기.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.9.12 종합설계. 간단한 할당기의 구현.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1966,
       "exportedPath": "CSAPP/9장 가상 메모리/9.9.12 종합설계. 간단한 할당기의 구현.html",
       "dependencies": []
     },
     "CSAPP/9장 가상 메모리/9.11 C 프로그램에서의 공통된 메모리 관련 버그.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2091,
       "exportedPath": "CSAPP/9장 가상 메모리/9.11 C 프로그램에서의 공통된 메모리 관련 버그.html",
       "dependencies": []
     },
     "CSAPP/10장 시스템 수준 입출력/@INTRO.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2119,
       "exportedPath": "CSAPP/10장 시스템 수준 입출력/@INTRO.html",
       "dependencies": []
     },
     "CSAPP/10장 시스템 수준 입출력/10.1 Unix  IO.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2020,
       "exportedPath": "CSAPP/10장 시스템 수준 입출력/10.1 Unix  IO.html",
       "dependencies": []
     },
     "CSAPP/10장 시스템 수준 입출력/10.2 파일.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 3119,
       "exportedPath": "CSAPP/10장 시스템 수준 입출력/10.2 파일.html",
       "dependencies": []
     },
     "CSAPP/10장 시스템 수준 입출력/10.3 파일 열기와 닫기.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2497,
       "exportedPath": "CSAPP/10장 시스템 수준 입출력/10.3 파일 열기와 닫기.html",
       "dependencies": []
     },
     "CSAPP/10장 시스템 수준 입출력/10.4 파일 읽기와 쓰기.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2341,
       "exportedPath": "CSAPP/10장 시스템 수준 입출력/10.4 파일 읽기와 쓰기.html",
       "dependencies": []
     },
     "CSAPP/10장 시스템 수준 입출력/10.5 Rio 패키지를 이용한 안정적인 읽기와 쓰기.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2567,
       "exportedPath": "CSAPP/10장 시스템 수준 입출력/10.5 Rio 패키지를 이용한 안정적인 읽기와 쓰기.html",
       "dependencies": []
     },
     "CSAPP/10장 시스템 수준 입출력/10.5.1 Rio 버퍼 없는 입력 및 출력 함수.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1825,
       "exportedPath": "CSAPP/10장 시스템 수준 입출력/10.5.1 Rio 버퍼 없는 입력 및 출력 함수.html",
       "dependencies": []
     },
     "CSAPP/10장 시스템 수준 입출력/10.5.2 Rio 버퍼를 통한 입력 함수.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1949,
       "exportedPath": "CSAPP/10장 시스템 수준 입출력/10.5.2 Rio 버퍼를 통한 입력 함수.html",
       "dependencies": []
     },
     "CSAPP/10장 시스템 수준 입출력/10.6 파일 메타데이터 읽기.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2571,
       "exportedPath": "CSAPP/10장 시스템 수준 입출력/10.6 파일 메타데이터 읽기.html",
       "dependencies": []
     },
     "CSAPP/10장 시스템 수준 입출력/10.7 디렉토리 내용 읽기.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2008,
       "exportedPath": "CSAPP/10장 시스템 수준 입출력/10.7 디렉토리 내용 읽기.html",
       "dependencies": []
     },
     "CSAPP/10장 시스템 수준 입출력/10.8 파일 공유.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 3053,
       "exportedPath": "CSAPP/10장 시스템 수준 입출력/10.8 파일 공유.html",
       "dependencies": []
     },
     "CSAPP/10장 시스템 수준 입출력/10.9 IO 재지정.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1671,
       "exportedPath": "CSAPP/10장 시스템 수준 입출력/10.9 IO 재지정.html",
       "dependencies": []
     },
     "CSAPP/10장 시스템 수준 입출력/10.10 표준 IO.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2806,
       "exportedPath": "CSAPP/10장 시스템 수준 입출력/10.10 표준 IO.html",
       "dependencies": []
     },
     "CSAPP/10장 시스템 수준 입출력/10.11 종합. 어떤 IO 함수를 이용해야 하는가.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2327,
       "exportedPath": "CSAPP/10장 시스템 수준 입출력/10.11 종합. 어떤 IO 함수를 이용해야 하는가.html",
       "dependencies": []
     },
     "CSAPP/10장 시스템 수준 입출력/10.12 요약.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 3070,
       "exportedPath": "CSAPP/10장 시스템 수준 입출력/10.12 요약.html",
       "dependencies": []
     },
     "CSAPP/11장 네트워크 프로그래밍/@INTRO.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2514,
       "exportedPath": "CSAPP/11장 네트워크 프로그래밍/@INTRO.html",
       "dependencies": []
     },
     "CSAPP/11장 네트워크 프로그래밍/11.1 클라이언트-서버 프로그래밍 모델.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2007,
       "exportedPath": "CSAPP/11장 네트워크 프로그래밍/11.1 클라이언트-서버 프로그래밍 모델.html",
       "dependencies": []
     },
     "CSAPP/11장 네트워크 프로그래밍/11.2 네트워크.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2374,
       "exportedPath": "CSAPP/11장 네트워크 프로그래밍/11.2 네트워크.html",
       "dependencies": []
     },
     "CSAPP/11장 네트워크 프로그래밍/11.3 글로벌 IP 인터넷.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2058,
       "exportedPath": "CSAPP/11장 네트워크 프로그래밍/11.3 글로벌 IP 인터넷.html",
       "dependencies": []
     },
     "CSAPP/11장 네트워크 프로그래밍/11.3.1 IP 주소.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2075,
       "exportedPath": "CSAPP/11장 네트워크 프로그래밍/11.3.1 IP 주소.html",
       "dependencies": []
     },
     "CSAPP/11장 네트워크 프로그래밍/11.3.2 인터넷 도메인 이름.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2805,
       "exportedPath": "CSAPP/11장 네트워크 프로그래밍/11.3.2 인터넷 도메인 이름.html",
       "dependencies": []
     },
     "CSAPP/11장 네트워크 프로그래밍/11.3.3 인터넷 연결.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2882,
       "exportedPath": "CSAPP/11장 네트워크 프로그래밍/11.3.3 인터넷 연결.html",
       "dependencies": []
     },
     "CSAPP/11장 네트워크 프로그래밍/11.4 소켓 인터페이스.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1103,
       "exportedPath": "CSAPP/11장 네트워크 프로그래밍/11.4 소켓 인터페이스.html",
       "dependencies": []
     },
     "CSAPP/11장 네트워크 프로그래밍/11.4.1 소켓 주소 구조체.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1106,
       "exportedPath": "CSAPP/11장 네트워크 프로그래밍/11.4.1 소켓 주소 구조체.html",
       "dependencies": []
     },
     "CSAPP/11장 네트워크 프로그래밍/11.4.2 socket함수.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2622,
       "exportedPath": "CSAPP/11장 네트워크 프로그래밍/11.4.2 socket함수.html",
       "dependencies": []
     },
     "CSAPP/11장 네트워크 프로그래밍/11.4.3 connect함수.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2478,
       "exportedPath": "CSAPP/11장 네트워크 프로그래밍/11.4.3 connect함수.html",
       "dependencies": []
     },
     "CSAPP/11장 네트워크 프로그래밍/11.4.4 bind 함수.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2392,
       "exportedPath": "CSAPP/11장 네트워크 프로그래밍/11.4.4 bind 함수.html",
       "dependencies": []
     },
     "CSAPP/11장 네트워크 프로그래밍/11.4.5 listen 함수.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2009,
       "exportedPath": "CSAPP/11장 네트워크 프로그래밍/11.4.5 listen 함수.html",
       "dependencies": []
     },
     "CSAPP/11장 네트워크 프로그래밍/11.4.6 accept 함수.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2674,
       "exportedPath": "CSAPP/11장 네트워크 프로그래밍/11.4.6 accept 함수.html",
       "dependencies": []
     },
     "CSAPP/11장 네트워크 프로그래밍/11.4.6.1 통신 함수의 흐름.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 4143,
       "exportedPath": "CSAPP/11장 네트워크 프로그래밍/11.4.6.1 통신 함수의 흐름.html",
       "dependencies": []
     },
+<<<<<<< HEAD
     "z.첨부파일/기계어 예시.png": {
       "modifiedTime": 1717414539279,
       "sourceSize": 12284,
@@ -2115,160 +2906,265 @@
     },
     "CSAPP/11장 네트워크 프로그래밍/11.4.7 호스트와 서비스 변환.md": {
       "modifiedTime": 1717414539279,
+=======
+    "CSAPP/11장 네트워크 프로그래밍/11.4.7 호스트와 서비스 변환.md": {
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 3579,
       "exportedPath": "CSAPP/11장 네트워크 프로그래밍/11.4.7 호스트와 서비스 변환.html",
       "dependencies": []
     },
     "CSAPP/11장 네트워크 프로그래밍/11.4.8 소켓 인터페이스를 위한 도움함수들.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1440,
       "exportedPath": "CSAPP/11장 네트워크 프로그래밍/11.4.8 소켓 인터페이스를 위한 도움함수들.html",
       "dependencies": []
     },
     "CSAPP/11장 네트워크 프로그래밍/11.4.9 예제 Echo 클라이언트와 서버.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2465,
       "exportedPath": "CSAPP/11장 네트워크 프로그래밍/11.4.9 예제 Echo 클라이언트와 서버.html",
       "dependencies": []
     },
     "CSAPP/11장 네트워크 프로그래밍/11.5 웹 서버.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2525,
       "exportedPath": "CSAPP/11장 네트워크 프로그래밍/11.5 웹 서버.html",
       "dependencies": []
     },
     "CSAPP/11장 네트워크 프로그래밍/11.5.1 웹 기초.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1673,
       "exportedPath": "CSAPP/11장 네트워크 프로그래밍/11.5.1 웹 기초.html",
       "dependencies": []
     },
     "CSAPP/11장 네트워크 프로그래밍/11.5.2 웹 컨텐츠.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2031,
       "exportedPath": "CSAPP/11장 네트워크 프로그래밍/11.5.2 웹 컨텐츠.html",
       "dependencies": []
     },
     "CSAPP/11장 네트워크 프로그래밍/11.5.3 HTTP 트랜잭션.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2212,
       "exportedPath": "CSAPP/11장 네트워크 프로그래밍/11.5.3 HTTP 트랜잭션.html",
       "dependencies": []
     },
     "CSAPP/11장 네트워크 프로그래밍/11.5.4 동적 컨텐츠의 처리.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1944,
       "exportedPath": "CSAPP/11장 네트워크 프로그래밍/11.5.4 동적 컨텐츠의 처리.html",
       "dependencies": []
     },
     "CSAPP/11장 네트워크 프로그래밍/11.6 종합 설계. 소형 웹 서버.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1737,
       "exportedPath": "CSAPP/11장 네트워크 프로그래밍/11.6 종합 설계. 소형 웹 서버.html",
       "dependencies": []
     },
     "CSAPP/11장 네트워크 프로그래밍/11.7 요약.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2013,
       "exportedPath": "CSAPP/11장 네트워크 프로그래밍/11.7 요약.html",
       "dependencies": []
     },
     "CSAPP/12장 동시성 프로그래밍/@INTRO.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2274,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/@INTRO.html",
       "dependencies": []
     },
     "CSAPP/12장 동시성 프로그래밍/12.1 프로세스를 사용한 동시성 프로그래밍.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2780,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.1 프로세스를 사용한 동시성 프로그래밍.html",
       "dependencies": []
     },
     "CSAPP/12장 동시성 프로그래밍/12.1.1 프로세스 기반 동시성 서버.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2825,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.1.1 프로세스 기반 동시성 서버.html",
       "dependencies": []
     },
     "CSAPP/12장 동시성 프로그래밍/12.1.2 프로세스의 장단점.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1036,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.1.2 프로세스의 장단점.html",
       "dependencies": []
     },
     "CSAPP/12장 동시성 프로그래밍/12.2 IO 다중화를 이용한 동시성 프로그래밍.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1813,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.2 IO 다중화를 이용한 동시성 프로그래밍.html",
       "dependencies": []
     },
     "CSAPP/12장 동시성 프로그래밍/12.2.3 프로세스 방식과 IO다중화 기반.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2917,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.2.3 프로세스 방식과 IO다중화 기반.html",
       "dependencies": []
     },
     "CSAPP/12장 동시성 프로그래밍/12.3 쓰레드를 이용한 동시성 프로그래밍.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2614,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.3 쓰레드를 이용한 동시성 프로그래밍.html",
       "dependencies": []
     },
     "CSAPP/12장 동시성 프로그래밍/12.3.1 쓰레드 실행 모델.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 3191,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.3.1 쓰레드 실행 모델.html",
       "dependencies": []
     },
     "CSAPP/12장 동시성 프로그래밍/12.3.2 Posix 쓰레드.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2344,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.3.2 Posix 쓰레드.html",
       "dependencies": []
     },
     "CSAPP/12장 동시성 프로그래밍/12.3.3 쓰레드 생성.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2753,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.3.3 쓰레드 생성.html",
       "dependencies": []
     },
     "CSAPP/12장 동시성 프로그래밍/12.3.4 쓰레드 종료하기.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2356,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.3.4 쓰레드 종료하기.html",
       "dependencies": []
     },
     "CSAPP/12장 동시성 프로그래밍/12.3.5 종료한 쓰레드의 삭제.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1960,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.3.5 종료한 쓰레드의 삭제.html",
       "dependencies": []
     },
     "CSAPP/12장 동시성 프로그래밍/12.3.6 쓰레드 분리하기.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2598,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.3.6 쓰레드 분리하기.html",
       "dependencies": []
     },
     "CSAPP/12장 동시성 프로그래밍/12.3.7 쓰레드 초기화.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1838,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.3.7 쓰레드 초기화.html",
       "dependencies": []
     },
     "CSAPP/12장 동시성 프로그래밍/12.3.8 쓰레드에 기초한 동시성 서버.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2503,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.3.8 쓰레드에 기초한 동시성 서버.html",
       "dependencies": []
     },
     "CSAPP/12장 동시성 프로그래밍/12.4 쓰레드 프로그램에서 공유 변수.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2377,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.4 쓰레드 프로그램에서 공유 변수.html",
       "dependencies": []
     },
+<<<<<<< HEAD
     "z.첨부파일/Pasted image 20240506184637.png": {
       "modifiedTime": 1717414539279,
       "sourceSize": 16433,
@@ -2307,40 +3203,65 @@
     },
     "CSAPP/12장 동시성 프로그래밍/12.4.1 쓰레드 메모리 모델.md": {
       "modifiedTime": 1717414539279,
+=======
+    "CSAPP/12장 동시성 프로그래밍/12.4.1 쓰레드 메모리 모델.md": {
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2413,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.4.1 쓰레드 메모리 모델.html",
       "dependencies": []
     },
     "CSAPP/12장 동시성 프로그래밍/12.4.2 변수들을 메모리로 매핑하기.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2705,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.4.2 변수들을 메모리로 매핑하기.html",
       "dependencies": []
     },
     "CSAPP/12장 동시성 프로그래밍/12.4.3 공유 변수.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1715,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.4.3 공유 변수.html",
       "dependencies": []
     },
     "CSAPP/12장 동시성 프로그래밍/12.5 세마포어로 쓰레드 동기화하기.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2494,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.5 세마포어로 쓰레드 동기화하기.html",
       "dependencies": []
     },
     "CSAPP/12장 동시성 프로그래밍/12.5.1 진행 그래프.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2825,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.5.1 진행 그래프.html",
       "dependencies": []
     },
     "CSAPP/12장 동시성 프로그래밍/12.5.2 세마포어.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2382,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.5.2 세마포어.html",
       "dependencies": []
     },
+<<<<<<< HEAD
     "부록/원자적 연산.md": {
       "modifiedTime": 1717414539279,
       "sourceSize": 2396,
@@ -2349,70 +3270,115 @@
     },
     "CSAPP/12장 동시성 프로그래밍/12.5.3 상호 배제를 위해 세마포어 이용하기.md": {
       "modifiedTime": 1717414539279,
+=======
+    "CSAPP/12장 동시성 프로그래밍/12.5.3 상호 배제를 위해 세마포어 이용하기.md": {
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2639,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.5.3 상호 배제를 위해 세마포어 이용하기.html",
       "dependencies": []
     },
     "CSAPP/12장 동시성 프로그래밍/12.5.4 세마포어를 이용한 공유 자원 스케줄링하기.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1971,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.5.4 세마포어를 이용한 공유 자원 스케줄링하기.html",
       "dependencies": []
     },
     "CSAPP/12장 동시성 프로그래밍/12.5.5 종합설계. 사전쓰레딩에 기초한 동시성 서버.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2500,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.5.5 종합설계. 사전쓰레딩에 기초한 동시성 서버.html",
       "dependencies": []
     },
     "CSAPP/12장 동시성 프로그래밍/12.6 병렬성을 위해서 쓰레드 이용하기.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2271,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.6 병렬성을 위해서 쓰레드 이용하기.html",
       "dependencies": []
     },
     "CSAPP/12장 동시성 프로그래밍/12.7 다른 동시성의 이슈.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2576,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.7 다른 동시성의 이슈.html",
       "dependencies": []
     },
     "CSAPP/12장 동시성 프로그래밍/12.7.1 쓰레드 안전성.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 3083,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.7.1 쓰레드 안전성.html",
       "dependencies": []
     },
     "CSAPP/12장 동시성 프로그래밍/12.7.2 재진입성.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2252,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.7.2 재진입성.html",
       "dependencies": []
     },
     "CSAPP/12장 동시성 프로그래밍/12.7.3 쓰레드 프로그램에서 기존 라이브러리 함수 사용하기.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2658,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.7.3 쓰레드 프로그램에서 기존 라이브러리 함수 사용하기.html",
       "dependencies": []
     },
     "CSAPP/12장 동시성 프로그래밍/12.7.4 경쟁 상태.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 3181,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.7.4 경쟁 상태.html",
       "dependencies": []
     },
     "CSAPP/12장 동시성 프로그래밍/12.7.5 교착상태(deadlock).md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 2743,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.7.5 교착상태(deadlock).html",
       "dependencies": []
     },
     "CSAPP/12장 동시성 프로그래밍/12.8 요약.md": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 1817,
       "exportedPath": "CSAPP/12장 동시성 프로그래밍/12.8 요약.html",
       "dependencies": []
     },
+<<<<<<< HEAD
     "부록/CGI vs NEXT.js.md": {
       "modifiedTime": 1717414539279,
       "sourceSize": 2887,
@@ -2685,40 +3651,1103 @@
     },
     "z.첨부파일/Pasted image 20240509095408.png": {
       "modifiedTime": 1717414539279,
+=======
+    "CSAPP/부록/16개의 레지스터.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1938,
+      "exportedPath": "CSAPP/부록/16개의 레지스터.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/고급어, 어셈블리어, 기계어 번역 이유.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2217,
+      "exportedPath": "CSAPP/부록/고급어, 어셈블리어, 기계어 번역 이유.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/내부적으로 데이터를 버퍼링.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1063,
+      "exportedPath": "CSAPP/부록/내부적으로 데이터를 버퍼링.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/동적 메모리 할당의 메모리 합병.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2120,
+      "exportedPath": "CSAPP/부록/동적 메모리 할당의 메모리 합병.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/레지스터 호출 규약.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1686,
+      "exportedPath": "CSAPP/부록/레지스터 호출 규약.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/레지스터, 캐시, 램 – 컴퓨터 메모리의 계층.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 4123,
+      "exportedPath": "CSAPP/부록/레지스터, 캐시, 램 – 컴퓨터 메모리의 계층.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/레지스터는 메모리인가.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1291,
+      "exportedPath": "CSAPP/부록/레지스터는 메모리인가.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/리틀 엔디안과 빅 엔디안.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 3518,
+      "exportedPath": "CSAPP/부록/리틀 엔디안과 빅 엔디안.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/멀티 스레드 애플리케이션 예시.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2594,
+      "exportedPath": "CSAPP/부록/멀티 스레드 애플리케이션 예시.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/멀티프로세서와 쓰레드 사용 예시.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 3464,
+      "exportedPath": "CSAPP/부록/멀티프로세서와 쓰레드 사용 예시.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/메모리 스택.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 3145,
+      "exportedPath": "CSAPP/부록/메모리 스택.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/메모리 힙 영역.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2449,
+      "exportedPath": "CSAPP/부록/메모리 힙 영역.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/메모리와 파일 사이에서 데이터를 직접 전송.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 945,
+      "exportedPath": "CSAPP/부록/메모리와 파일 사이에서 데이터를 직접 전송.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/베어 메탈(bare metal) 시스템.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1614,
+      "exportedPath": "CSAPP/부록/베어 메탈(bare metal) 시스템.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/부모 프로세스와 자식 프로세스.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1672,
+      "exportedPath": "CSAPP/부록/부모 프로세스와 자식 프로세스.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/스택과 프레임의 차이.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1587,
+      "exportedPath": "CSAPP/부록/스택과 프레임의 차이.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/어플리케이션 수준.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1605,
+      "exportedPath": "CSAPP/부록/어플리케이션 수준.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/엔티티.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1998,
+      "exportedPath": "CSAPP/부록/엔티티.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/원자적 연산.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2396,
+      "exportedPath": "CSAPP/부록/원자적 연산.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/인터페이스.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2023,
+      "exportedPath": "CSAPP/부록/인터페이스.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/일반 가정에서의 네트워크.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 800,
+      "exportedPath": "CSAPP/부록/일반 가정에서의 네트워크.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/캐시메모리.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1472,
+      "exportedPath": "CSAPP/부록/캐시메모리.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/컴퓨터 시스템에서 말하는 자원.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1864,
+      "exportedPath": "CSAPP/부록/컴퓨터 시스템에서 말하는 자원.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/컴퓨터의 데이터 처리 과정.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 3582,
+      "exportedPath": "CSAPP/부록/컴퓨터의 데이터 처리 과정.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/파일 공유 예시.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2604,
+      "exportedPath": "CSAPP/부록/파일 공유 예시.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/파일테이블과 v-node테이블 분리 이유.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2503,
+      "exportedPath": "CSAPP/부록/파일테이블과 v-node테이블 분리 이유.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/페이지 테이블과 SRAM의 관계.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2178,
+      "exportedPath": "CSAPP/부록/페이지 테이블과 SRAM의 관계.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/페이지 폴트, 캐시미스.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2109,
+      "exportedPath": "CSAPP/부록/페이지 폴트, 캐시미스.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/프로세스를 사용한 동시성 활용예시.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1951,
+      "exportedPath": "CSAPP/부록/프로세스를 사용한 동시성 활용예시.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/프로파일링 도구.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2661,
+      "exportedPath": "CSAPP/부록/프로파일링 도구.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/하이퍼쓰레딩을 지원하지 않음.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2836,
+      "exportedPath": "CSAPP/부록/하이퍼쓰레딩을 지원하지 않음.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/함수 매개변수와 성능.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 5528,
+      "exportedPath": "CSAPP/부록/함수 매개변수와 성능.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/허브, 스위치, 브릿지, 라우터.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2742,
+      "exportedPath": "CSAPP/부록/허브, 스위치, 브릿지, 라우터.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/회사나 대규모 기관에서의 네트워크.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 416,
+      "exportedPath": "CSAPP/부록/회사나 대규모 기관에서의 네트워크.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/힙 충돌.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2307,
+      "exportedPath": "CSAPP/부록/힙 충돌.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/ALU 연산.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1155,
+      "exportedPath": "CSAPP/부록/ALU 연산.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/Buffered IO vs Unbuffered IO.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2120,
+      "exportedPath": "CSAPP/부록/Buffered IO vs Unbuffered IO.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/CGI vs NEXT.js.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2887,
+      "exportedPath": "CSAPP/부록/CGI vs NEXT.js.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/CPU의 메모리 접근 경로.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1444,
+      "exportedPath": "CSAPP/부록/CPU의 메모리 접근 경로.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/DMA의 입력과 출력.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 12615,
+      "exportedPath": "CSAPP/부록/DMA의 입력과 출력.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/Echo 활용 예시.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2048,
+      "exportedPath": "CSAPP/부록/Echo 활용 예시.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/FPS 게임으로 보는 버퍼 시스템.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2734,
+      "exportedPath": "CSAPP/부록/FPS 게임으로 보는 버퍼 시스템.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/free선언과 최적화.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2752,
+      "exportedPath": "CSAPP/부록/free선언과 최적화.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/IO 재지정 이유.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2400,
+      "exportedPath": "CSAPP/부록/IO 재지정 이유.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/JavaScript 성능 최적화.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2169,
+      "exportedPath": "CSAPP/부록/JavaScript 성능 최적화.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/malloc & coloc 사용 예시.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2022,
+      "exportedPath": "CSAPP/부록/malloc & coloc 사용 예시.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/nginx.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 15208,
+      "exportedPath": "CSAPP/부록/nginx.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/rio 함수 안쓰고 네트워크 프로그래밍 하기.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2985,
+      "exportedPath": "CSAPP/부록/rio 함수 안쓰고 네트워크 프로그래밍 하기.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/SIGCHLD.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 4363,
+      "exportedPath": "CSAPP/부록/SIGCHLD.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/v-node의 라이프사이클.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1865,
+      "exportedPath": "CSAPP/부록/v-node의 라이프사이클.html",
+      "dependencies": []
+    },
+    "CSAPP/부록/Write back & Write through.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2511,
+      "exportedPath": "CSAPP/부록/Write back & Write through.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/가상화.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 830,
+      "exportedPath": "CSAPP/키워드/가상화.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/그리디 알고리즘.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 605,
+      "exportedPath": "CSAPP/키워드/그리디 알고리즘.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/기계어.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 115,
+      "exportedPath": "CSAPP/키워드/기계어.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/네트워크 계층.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 5234,
+      "exportedPath": "CSAPP/키워드/네트워크 계층.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/다이나믹 프로그래밍.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 797,
+      "exportedPath": "CSAPP/키워드/다이나믹 프로그래밍.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/더블 프리시전 부동 소수점 수.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 454,
+      "exportedPath": "CSAPP/키워드/더블 프리시전 부동 소수점 수.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/동적 메모리 할당.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 996,
+      "exportedPath": "CSAPP/키워드/동적 메모리 할당.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/레드 블랙 트리의 삽입 삭제.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 844,
+      "exportedPath": "CSAPP/키워드/레드 블랙 트리의 삽입 삭제.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/레지스터.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1847,
+      "exportedPath": "CSAPP/키워드/레지스터.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/레지스터기호.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 506,
+      "exportedPath": "CSAPP/키워드/레지스터기호.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/링커.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2113,
+      "exportedPath": "CSAPP/키워드/링커.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/병합정렬.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 336,
+      "exportedPath": "CSAPP/키워드/병합정렬.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/분할정복.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 239,
+      "exportedPath": "CSAPP/키워드/분할정복.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/소켓.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2305,
+      "exportedPath": "CSAPP/키워드/소켓.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/스칼라 데이터 타입.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1178,
+      "exportedPath": "CSAPP/키워드/스칼라 데이터 타입.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/어셈블러.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 3023,
+      "exportedPath": "CSAPP/키워드/어셈블러.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/어셈블리어.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 31,
+      "exportedPath": "CSAPP/키워드/어셈블리어.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/오프셋.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1211,
+      "exportedPath": "CSAPP/키워드/오프셋.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/이더넷(Ethernet).md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1775,
+      "exportedPath": "CSAPP/키워드/이더넷(Ethernet).html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/이진 탐색 트리(BST).md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 783,
+      "exportedPath": "CSAPP/키워드/이진 탐색 트리(BST).html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/인스트럭션.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 118,
+      "exportedPath": "CSAPP/키워드/인스트럭션.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/인터럽트.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1859,
+      "exportedPath": "CSAPP/키워드/인터럽트.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/정수 데이터 타입.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 440,
+      "exportedPath": "CSAPP/키워드/정수 데이터 타입.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/조건형 move.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 286,
+      "exportedPath": "CSAPP/키워드/조건형 move.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/퀵정렬.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2583,
+      "exportedPath": "CSAPP/키워드/퀵정렬.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/클라이언트-서버 모델.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2402,
+      "exportedPath": "CSAPP/키워드/클라이언트-서버 모델.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/파일 디스크립터.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2110,
+      "exportedPath": "CSAPP/키워드/파일 디스크립터.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/포인터.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1181,
+      "exportedPath": "CSAPP/키워드/포인터.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/프로그램 카운터.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 610,
+      "exportedPath": "CSAPP/키워드/프로그램 카운터.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/AVX2.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 833,
+      "exportedPath": "CSAPP/키워드/AVX2.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/C연산자.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 636,
+      "exportedPath": "CSAPP/키워드/C연산자.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/calloc.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1410,
+      "exportedPath": "CSAPP/키워드/calloc.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/Datagram Socket vs Stream Socket.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2282,
+      "exportedPath": "CSAPP/키워드/Datagram Socket vs Stream Socket.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/DMA.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1313,
+      "exportedPath": "CSAPP/키워드/DMA.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/GCC C 컴파일러.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1175,
+      "exportedPath": "CSAPP/키워드/GCC C 컴파일러.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/hotspot.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 211,
+      "exportedPath": "CSAPP/키워드/hotspot.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/Knapsack Problem.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 674,
+      "exportedPath": "CSAPP/키워드/Knapsack Problem.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/LCS.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 456,
+      "exportedPath": "CSAPP/키워드/LCS.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/Linked List.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 661,
+      "exportedPath": "CSAPP/키워드/Linked List.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/malloc(Moemory Allocation).md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1096,
+      "exportedPath": "CSAPP/키워드/malloc(Moemory Allocation).html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/PP.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 621,
+      "exportedPath": "CSAPP/키워드/PP.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/PPN.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 143,
+      "exportedPath": "CSAPP/키워드/PPN.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/PPO.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 186,
+      "exportedPath": "CSAPP/키워드/PPO.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/PT.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 242,
+      "exportedPath": "CSAPP/키워드/PT.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/PTE.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 421,
+      "exportedPath": "CSAPP/키워드/PTE.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/rax.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 124,
+      "exportedPath": "CSAPP/키워드/rax.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/rdx.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 182,
+      "exportedPath": "CSAPP/키워드/rdx.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/realloc.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1409,
+      "exportedPath": "CSAPP/키워드/realloc.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/rsp.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 173,
+      "exportedPath": "CSAPP/키워드/rsp.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/SRAM.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1565,
+      "exportedPath": "CSAPP/키워드/SRAM.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/TLB.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1695,
+      "exportedPath": "CSAPP/키워드/TLB.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/VP.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 380,
+      "exportedPath": "CSAPP/키워드/VP.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/VPN.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 219,
+      "exportedPath": "CSAPP/키워드/VPN.html",
+      "dependencies": []
+    },
+    "CSAPP/키워드/VPO.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 179,
+      "exportedPath": "CSAPP/키워드/VPO.html",
+      "dependencies": []
+    },
+    "PintOS/키워드/1주차 threads/Project 0. PintOS 키워드.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1363,
+      "exportedPath": "PintOS/키워드/1주차 threads/Project 0. PintOS 키워드.html",
+      "dependencies": []
+    },
+    "PintOS/키워드/1주차 threads/Project 1. Threads 키워드.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 3109,
+      "exportedPath": "PintOS/키워드/1주차 threads/Project 1. Threads 키워드.html",
+      "dependencies": []
+    },
+    "PintOS/키워드/2주차 userprog/1. User mode vs kernel mode.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 8701,
+      "exportedPath": "PintOS/키워드/2주차 userprog/1. User mode vs kernel mode.html",
+      "dependencies": []
+    },
+    "PintOS/키워드/2주차 userprog/2. Register vs Memory.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 11753,
+      "exportedPath": "PintOS/키워드/2주차 userprog/2. Register vs Memory.html",
+      "dependencies": []
+    },
+    "PintOS/키워드/2주차 userprog/3. User Stack.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 5440,
+      "exportedPath": "PintOS/키워드/2주차 userprog/3. User Stack.html",
+      "dependencies": []
+    },
+    "PintOS/키워드/2주차 userprog/4. System Call.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 4077,
+      "exportedPath": "PintOS/키워드/2주차 userprog/4. System Call.html",
+      "dependencies": []
+    },
+    "PintOS/키워드/2주차 userprog/5. File Descriptor.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 4079,
+      "exportedPath": "PintOS/키워드/2주차 userprog/5. File Descriptor.html",
+      "dependencies": []
+    },
+    "PintOS/키워드/2주차 userprog/6. Cache.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 7175,
+      "exportedPath": "PintOS/키워드/2주차 userprog/6. Cache.html",
+      "dependencies": []
+    },
+    "PintOS/키워드/2주차 userprog/7. Atomic Operation.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 6491,
+      "exportedPath": "PintOS/키워드/2주차 userprog/7. Atomic Operation.html",
+      "dependencies": []
+    },
+    "PintOS/키워드/2주차 userprog/8. rax register.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 3295,
+      "exportedPath": "PintOS/키워드/2주차 userprog/8. rax register.html",
+      "dependencies": []
+    },
+    "PintOS/키워드/2주차 userprog/9. 32bit OS vs 64 bit OS.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 3937,
+      "exportedPath": "PintOS/키워드/2주차 userprog/9. 32bit OS vs 64 bit OS.html",
+      "dependencies": []
+    },
+    "PintOS/키워드/2주차 userprog/10. Interrupt.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 4182,
+      "exportedPath": "PintOS/키워드/2주차 userprog/10. Interrupt.html",
+      "dependencies": []
+    },
+    "PintOS/키워드/2주차 userprog/11. Segmentatiton Fault.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 3640,
+      "exportedPath": "PintOS/키워드/2주차 userprog/11. Segmentatiton Fault.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/@INTRODUCTION/1. Introduction.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2690,
+      "exportedPath": "PintOS/pintos_gitbook/@INTRODUCTION/1. Introduction.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/@INTRODUCTION/2. Getting Started.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 7575,
+      "exportedPath": "PintOS/pintos_gitbook/@INTRODUCTION/2. Getting Started.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/@INTRODUCTION/3. Grading.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 3342,
+      "exportedPath": "PintOS/pintos_gitbook/@INTRODUCTION/3. Grading.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/@INTRODUCTION/4. Legal and Ethical Issues.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1146,
+      "exportedPath": "PintOS/pintos_gitbook/@INTRODUCTION/4. Legal and Ethical Issues.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/APPENDIX/1. Threads.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 11613,
+      "exportedPath": "PintOS/pintos_gitbook/APPENDIX/1. Threads.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/APPENDIX/2. Synchronization.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 19451,
+      "exportedPath": "PintOS/pintos_gitbook/APPENDIX/2. Synchronization.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/APPENDIX/3. Memory Allocation.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 7923,
+      "exportedPath": "PintOS/pintos_gitbook/APPENDIX/3. Memory Allocation.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/APPENDIX/4. Virtual Address.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 5352,
+      "exportedPath": "PintOS/pintos_gitbook/APPENDIX/4. Virtual Address.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/APPENDIX/5. Page Table.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 5097,
+      "exportedPath": "PintOS/pintos_gitbook/APPENDIX/5. Page Table.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/APPENDIX/6. Debugging Tools.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 14968,
+      "exportedPath": "PintOS/pintos_gitbook/APPENDIX/6. Debugging Tools.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/APPENDIX/7. Development Tools.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2349,
+      "exportedPath": "PintOS/pintos_gitbook/APPENDIX/7. Development Tools.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/APPENDIX/8. Hash Table.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 17772,
+      "exportedPath": "PintOS/pintos_gitbook/APPENDIX/8. Hash Table.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/PROJECT1. THREADS/1. Introduction.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 16359,
+      "exportedPath": "PintOS/pintos_gitbook/PROJECT1. THREADS/1. Introduction.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/PROJECT1. THREADS/2.  Alarm Clock.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1598,
+      "exportedPath": "PintOS/pintos_gitbook/PROJECT1. THREADS/2.  Alarm Clock.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/PROJECT1. THREADS/3. Priority Scheduling.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 3509,
+      "exportedPath": "PintOS/pintos_gitbook/PROJECT1. THREADS/3. Priority Scheduling.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/PROJECT1. THREADS/4. Advanced Scheduler.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 17602,
+      "exportedPath": "PintOS/pintos_gitbook/PROJECT1. THREADS/4. Advanced Scheduler.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/PROJECT1. THREADS/5. FAQ.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 14066,
+      "exportedPath": "PintOS/pintos_gitbook/PROJECT1. THREADS/5. FAQ.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/PROJECT2. USER PROGRAMS/1. Introduction.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 21427,
+      "exportedPath": "PintOS/pintos_gitbook/PROJECT2. USER PROGRAMS/1. Introduction.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/PROJECT2. USER PROGRAMS/2. Argument Passing.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 6143,
+      "exportedPath": "PintOS/pintos_gitbook/PROJECT2. USER PROGRAMS/2. Argument Passing.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/PROJECT2. USER PROGRAMS/3. User Memory.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 668,
+      "exportedPath": "PintOS/pintos_gitbook/PROJECT2. USER PROGRAMS/3. User Memory.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/PROJECT2. USER PROGRAMS/4. System Calls.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 14816,
+      "exportedPath": "PintOS/pintos_gitbook/PROJECT2. USER PROGRAMS/4. System Calls.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/PROJECT2. USER PROGRAMS/5. Process Termination Messages.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 847,
+      "exportedPath": "PintOS/pintos_gitbook/PROJECT2. USER PROGRAMS/5. Process Termination Messages.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/PROJECT2. USER PROGRAMS/6. Denying Writes to Executables.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 924,
+      "exportedPath": "PintOS/pintos_gitbook/PROJECT2. USER PROGRAMS/6. Denying Writes to Executables.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/PROJECT2. USER PROGRAMS/7. Extend File Descriptor (Extra).md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 1965,
+      "exportedPath": "PintOS/pintos_gitbook/PROJECT2. USER PROGRAMS/7. Extend File Descriptor (Extra).html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/PROJECT2. USER PROGRAMS/8. FAQ.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 8127,
+      "exportedPath": "PintOS/pintos_gitbook/PROJECT2. USER PROGRAMS/8. FAQ.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/PROJECT3. VIRTUAL MEMORY/1. Introduction.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 22999,
+      "exportedPath": "PintOS/pintos_gitbook/PROJECT3. VIRTUAL MEMORY/1. Introduction.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/PROJECT3. VIRTUAL MEMORY/1. Introduction 1.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 18925,
+      "exportedPath": "PintOS/pintos_gitbook/PROJECT3. VIRTUAL MEMORY/1. Introduction 1.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/PROJECT3. VIRTUAL MEMORY/2. Memory Management.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 9,
+      "exportedPath": "PintOS/pintos_gitbook/PROJECT3. VIRTUAL MEMORY/2. Memory Management.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/PROJECT3. VIRTUAL MEMORY/3. Anonymous Page.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 9,
+      "exportedPath": "PintOS/pintos_gitbook/PROJECT3. VIRTUAL MEMORY/3. Anonymous Page.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/PROJECT3. VIRTUAL MEMORY/4. Stack Growth.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 9,
+      "exportedPath": "PintOS/pintos_gitbook/PROJECT3. VIRTUAL MEMORY/4. Stack Growth.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/PROJECT3. VIRTUAL MEMORY/5. Memory Mapped Files.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 9,
+      "exportedPath": "PintOS/pintos_gitbook/PROJECT3. VIRTUAL MEMORY/5. Memory Mapped Files.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/PROJECT3. VIRTUAL MEMORY/6. Swap In Out.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 9,
+      "exportedPath": "PintOS/pintos_gitbook/PROJECT3. VIRTUAL MEMORY/6. Swap In Out.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/PROJECT3. VIRTUAL MEMORY/7. Copy on Write (Extra).md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 9,
+      "exportedPath": "PintOS/pintos_gitbook/PROJECT3. VIRTUAL MEMORY/7. Copy on Write (Extra).html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/PROJECT3. VIRTUAL MEMORY/8. FAQ.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 9,
+      "exportedPath": "PintOS/pintos_gitbook/PROJECT3. VIRTUAL MEMORY/8. FAQ.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/PROJECT4. FILE SYSTEM/1. Introduction.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 9,
+      "exportedPath": "PintOS/pintos_gitbook/PROJECT4. FILE SYSTEM/1. Introduction.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/PROJECT4. FILE SYSTEM/2. Indexed and Extensible Files.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 9,
+      "exportedPath": "PintOS/pintos_gitbook/PROJECT4. FILE SYSTEM/2. Indexed and Extensible Files.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/PROJECT4. FILE SYSTEM/3. Subdirectories and Soft Links.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 9,
+      "exportedPath": "PintOS/pintos_gitbook/PROJECT4. FILE SYSTEM/3. Subdirectories and Soft Links.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/PROJECT4. FILE SYSTEM/4. Buffer Cache (Extra).md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 9,
+      "exportedPath": "PintOS/pintos_gitbook/PROJECT4. FILE SYSTEM/4. Buffer Cache (Extra).html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/PROJECT4. FILE SYSTEM/5. Synchronization.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 9,
+      "exportedPath": "PintOS/pintos_gitbook/PROJECT4. FILE SYSTEM/5. Synchronization.html",
+      "dependencies": []
+    },
+    "PintOS/pintos_gitbook/PROJECT4. FILE SYSTEM/6. FAQ.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 9,
+      "exportedPath": "PintOS/pintos_gitbook/PROJECT4. FILE SYSTEM/6. FAQ.html",
+      "dependencies": []
+    },
+    "z.첨부파일/기계어 예시.png": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 12284,
+      "exportedPath": "z.첨부파일/기계어 예시.png",
+      "dependencies": []
+    },
+    "z.첨부파일/런타임스택.png": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 72760,
+      "exportedPath": "z.첨부파일/런타임스택.png",
+      "dependencies": []
+    },
+    "z.첨부파일/스택연산과정.png": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 88211,
+      "exportedPath": "z.첨부파일/스택연산과정.png",
+      "dependencies": []
+    },
+    "z.첨부파일/어셈블리어 예시.png": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 11301,
+      "exportedPath": "z.첨부파일/어셈블리어 예시.png",
+      "dependencies": []
+    },
+    "z.첨부파일/컴파일러와 링커가 하는 일.png": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 199676,
+      "exportedPath": "z.첨부파일/컴파일러와 링커가 하는 일.png",
+      "dependencies": []
+    },
+    "z.첨부파일/Pasted image 20240501171640.png": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 25428,
+      "exportedPath": "z.첨부파일/Pasted image 20240501171640.png",
+      "dependencies": []
+    },
+    "z.첨부파일/Pasted image 20240501171906.png": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 23198,
+      "exportedPath": "z.첨부파일/Pasted image 20240501171906.png",
+      "dependencies": []
+    },
+    "z.첨부파일/Pasted image 20240504214055.png": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 120979,
+      "exportedPath": "z.첨부파일/Pasted image 20240504214055.png",
+      "dependencies": []
+    },
+    "z.첨부파일/Pasted image 20240504215102.png": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 52403,
+      "exportedPath": "z.첨부파일/Pasted image 20240504215102.png",
+      "dependencies": []
+    },
+    "z.첨부파일/Pasted image 20240504215105.png": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 52403,
+      "exportedPath": "z.첨부파일/Pasted image 20240504215105.png",
+      "dependencies": []
+    },
+    "z.첨부파일/Pasted image 20240506184637.png": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 16433,
+      "exportedPath": "z.첨부파일/Pasted image 20240506184637.png",
+      "dependencies": []
+    },
+    "z.첨부파일/Pasted image 20240506184649.png": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 18970,
+      "exportedPath": "z.첨부파일/Pasted image 20240506184649.png",
+      "dependencies": []
+    },
+    "z.첨부파일/Pasted image 20240506184713.png": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 23867,
+      "exportedPath": "z.첨부파일/Pasted image 20240506184713.png",
+      "dependencies": []
+    },
+    "z.첨부파일/Pasted image 20240506184804.png": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 21052,
+      "exportedPath": "z.첨부파일/Pasted image 20240506184804.png",
+      "dependencies": []
+    },
+    "z.첨부파일/Pasted image 20240506184805.png": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 21052,
+      "exportedPath": "z.첨부파일/Pasted image 20240506184805.png",
+      "dependencies": []
+    },
+    "z.첨부파일/Pasted image 20240509095408.png": {
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 372518,
       "exportedPath": "z.첨부파일/Pasted image 20240509095408.png",
       "dependencies": []
     },
     "z.첨부파일/Pasted image 20240509095438.png": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 198589,
       "exportedPath": "z.첨부파일/Pasted image 20240509095438.png",
       "dependencies": []
     },
     "z.첨부파일/Pasted image 20240509095716.png": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 542598,
       "exportedPath": "z.첨부파일/Pasted image 20240509095716.png",
       "dependencies": []
     },
     "z.첨부파일/Pasted image 20240509095743.png": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 474595,
       "exportedPath": "z.첨부파일/Pasted image 20240509095743.png",
       "dependencies": []
     },
     "z.첨부파일/Pasted image 20240509095819.png": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 500651,
       "exportedPath": "z.첨부파일/Pasted image 20240509095819.png",
       "dependencies": []
     },
     "z.첨부파일/Pasted image 20240509100415.png": {
+<<<<<<< HEAD
       "modifiedTime": 1717414539279,
+=======
+      "modifiedTime": 1723386371219,
+>>>>>>> master
       "sourceSize": 122638,
       "exportedPath": "z.첨부파일/Pasted image 20240509100415.png",
       "dependencies": []
     },
+<<<<<<< HEAD
     "pintos/키워드/1주차 threads/Project 0. PintOS 키워드.md": {
       "modifiedTime": 1717414539279,
       "sourceSize": 1363,
@@ -2801,6 +4830,144 @@
       "modifiedTime": 1717414539279,
       "sourceSize": 18925,
       "exportedPath": "pintos_gitbook/PROJECT3. VIRTUAL MEMORY/1. Introduction 1.html",
+=======
+    "z.첨부파일/red black 삭제 case1.png": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 310447,
+      "exportedPath": "z.첨부파일/red black 삭제 case1.png",
+      "dependencies": []
+    },
+    "z.첨부파일/red black 삭제 case2.png": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 213366,
+      "exportedPath": "z.첨부파일/red black 삭제 case2.png",
+      "dependencies": []
+    },
+    "z.첨부파일/red black 삭제 case3.png": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 246084,
+      "exportedPath": "z.첨부파일/red black 삭제 case3.png",
+      "dependencies": []
+    },
+    "z.첨부파일/red black 삭제 case4.png": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 279778,
+      "exportedPath": "z.첨부파일/red black 삭제 case4.png",
+      "dependencies": []
+    },
+    "z.첨부파일/red black 삽입  case3.png": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 288999,
+      "exportedPath": "z.첨부파일/red black 삽입  case3.png",
+      "dependencies": []
+    },
+    "z.첨부파일/red black 삽입 case1.png": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 284667,
+      "exportedPath": "z.첨부파일/red black 삽입 case1.png",
+      "dependencies": []
+    },
+    "z.첨부파일/red black 삽입 case2.png": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 476420,
+      "exportedPath": "z.첨부파일/red black 삽입 case2.png",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 2082,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1723386371219,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+>>>>>>> master
       "dependencies": []
     }
   }
